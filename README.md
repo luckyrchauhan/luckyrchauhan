@@ -1,113 +1,144 @@
 <div align="center">
 
-```
-██╗     ██╗   ██╗ ██████╗██╗  ██╗██╗   ██╗
-██║     ██║   ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝
-██║     ██║   ██║██║     █████╔╝  ╚████╔╝ 
-██║     ██║   ██║██║     ██╔═██╗   ╚██╔╝  
-███████╗╚██████╔╝╚██████╗██║  ██╗   ██║   
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝  
-```
+<!-- BANNER — upload lucky_banner.png to your repo as assets/banner.png -->
+<img src="assets/banner.png" alt="Lucky Chauhan — AI Product Manager" width="100%"/>
 
-### `AI Product Manager` · `Builder` · `11+ Years of Experience`
+<br/><br/>
 
-*Turning complex systems into products people actually want to use.*
+<!-- Animated typing subtitle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+AI+products+that+actually+ship+%F0%9F%9A%80;Exploring+agentic+workflows+%26+LLM+systems;Always+curious.+Always+building+something.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychauhan/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychauhan/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luckyrchauhan)
-[![Profile Views](https://komarev.com/ghpvc/?username=luckyrchauhan&style=for-the-badge&color=blueviolet)](https://github.com/luckyrchauhan)
+[![Profile Views](https://komarev.com/ghpvc/?username=luckyrchauhan&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/luckyrchauhan)
 
 </div>
 
 ---
+
+<table align="center" width="90%">
+<tr>
+<td width="58%" valign="top">
 
 ## 👋 Hey, I'm Lucky
 
-Product Manager with **11+ years of experience** working at the intersection of **AI and enterprise technology**.
+Product Manager with **11+ years of experience** at the intersection of **AI and enterprise technology**.
 
-I hold an **MBA + MS in Digital Technology** with a specialization in **AI Product Management** from **Boston University** — and I've spent my career making sure that powerful technology actually translates into real-world value.
+Holds an **MBA + MS in Digital Technology** with a focus on **AI Product Management** from **Boston University**.
 
-> *"The best product isn't the most technically impressive one — it's the one that makes someone's life meaningfully easier."*
+I've spent my career making sure powerful technology actually translates into real-world value — not just in pitch decks, but in production. Beyond my day job, I'm constantly tinkering — building **personal AI projects**, experimenting with **agentic workflows**, and exploring what becomes possible when you push LLMs into real enterprise problems.
 
-I'm not just a PM who writes specs and runs standups. I build things. On weekends, late nights, and in between — I'm experimenting with **agentic AI workflows**, **LLM-powered tools**, and **MCP integrations**, constantly pushing the boundary of what's possible when AI meets real enterprise problems.
+I believe the gap between a good idea and a great product is **systems thinking** — and that's exactly where I live.
 
-If you're building at the edge of AI and systems — **let's talk.**
+**Always curious. Always building something.**
 
----
-
-## 🧠 What I'm About
+</td>
+<td width="42%" valign="top">
 
 ```yaml
-focus_areas:
-  - AI Product Strategy & Roadmapping
-  - Agentic Workflows & LLM Applications
-  - Enterprise Technology Implementations
-  - MCP (Model Context Protocol) Integrations
-  - Supply Chain & Operations Intelligence
+name: Lucky Chauhan
+role: AI Product Manager
+experience: 11+ years
 
-currently:
-  - Building personal AI side projects
-  - Exploring next-gen enterprise AI tooling
-  - Experimenting with agentic automation
+education:
+  degree: MBA + MS Digital Technology
+  school: Boston University
+  focus: AI Product Management
 
-mindset: "Always curious. Always building."
+currently_building:
+  - Personal AI side projects
+  - Agentic workflow systems
+  - MCP integrations
+
+mindset: "Ship. Learn. Repeat."
+open_to: Collaborations & Ideas
 ```
 
----
-
-## 🛠️ Tech Stack
-
-#### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-
-#### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-#### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-#### 🎨 Design & Product
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![Lucky's GitHub Stats](https://github-readme-stats.shion.dev/api?username=luckyrchauhan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## 🎯 What I Focus On
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=luckyrchauhan&theme=tokyonight&hide_border=true)
+| 🤖 AI & LLMs | ⚡ Agentic Workflows | 🔌 MCP Integrations |
+|:---:|:---:|:---:|
+| Building real products with LLMs, not just demos | Automating the boring, amplifying the meaningful | Connecting AI to real enterprise tooling |
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyrchauhan&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+| 📦 Enterprise Tech | 🧠 Product Strategy | ☁️ Cloud & Systems |
+|:---:|:---:|:---:|
+| Bridging complex systems with human needs | Roadmaps that actually ship | Scalable infrastructure for AI products |
 
 </div>
 
 ---
 
-## 💡 A Thought I Live By
+<div align="center">
+
+## 🛠️ Tech Stack
+
+**🤖 AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**☁️ Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**💻 Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**🎨 Design & Product**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+---
 
 <div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=luckyrchauhan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luckyrchauhan&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=luckyrchauhan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Thought For The Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -117,8 +148,15 @@ mindset: "Always curious. Always building."
 
 <div align="center">
 
-*Thanks for stopping by. If something here resonates — don't be a stranger.* 🤝
+### 🤝 Let's Build Something Worth Building
 
-**[Connect on LinkedIn](https://www.linkedin.com/in/luckychauhan/) · [Support My Work](https://buymeacoffee.com/luckyrchauhan)**
+*If you're working on something at the edge of AI and real-world systems — I want to hear about it.*
+
+[![LinkedIn](https://img.shields.io/badge/Reach_Out-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychauhan/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luckyrchauhan)
+
+<br/>
+
+*Thanks for stopping by — don't be a stranger.* ✌️
 
 </div>
