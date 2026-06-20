@@ -1,28 +1,26 @@
 <div align="center">
 
-<!-- BANNER — upload lucky_banner.png to your repo as assets/banner.png -->
-<img src="assets/banner.png" alt="Lucky Chauhan — AI Product Manager" width="100%"/>
+<img src="https://raw.githubusercontent.com/luckyrchauhan/luckyrchauhan/main/assets/banner.png" alt="Lucky Chauhan — AI Product Manager" width="100%"/>
 
 <br/><br/>
 
-<!-- Animated typing subtitle -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+AI+products+that+actually+ship+%F0%9F%9A%80;Exploring+agentic+workflows+%26+LLM+systems;Always+curious.+Always+building+something.)](https://git.io/typing-svg)
+<h3>Building AI products that actually ship 🚀 &nbsp;|&nbsp; Agentic Workflows &nbsp;|&nbsp; Always Building</h3>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychauhan/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-6E40C9?style=for-the-badge&logo=framer&logoColor=white)](https://luckychauhan.framer.ai/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luckyrchauhan)
-[![Profile Views](https://komarev.com/ghpvc/?username=luckyrchauhan&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/luckyrchauhan)
 
 </div>
 
 ---
 
-<table align="center" width="90%">
+<table width="90%" align="center">
 <tr>
 <td width="58%" valign="top">
 
-## 👋 Hey, I'm Lucky
+### 👋 Hey, I'm Lucky
 
 Product Manager with **11+ years of experience** at the intersection of **AI and enterprise technology**.
 
@@ -64,7 +62,7 @@ open_to: Collaborations & Ideas
 
 <div align="center">
 
-## 🎯 What I Focus On
+### 🎯 What I Focus On
 
 | 🤖 AI & LLMs | ⚡ Agentic Workflows | 🔌 MCP Integrations |
 |:---:|:---:|:---:|
@@ -80,7 +78,7 @@ open_to: Collaborations & Ideas
 
 <div align="center">
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **🤖 AI & Machine Learning**
 
@@ -123,7 +121,7 @@ open_to: Collaborations & Ideas
 
 <div align="center">
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.shion.dev/api?username=luckyrchauhan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luckyrchauhan&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165"/>
@@ -138,7 +136,7 @@ open_to: Collaborations & Ideas
 
 <div align="center">
 
-## 💡 Thought For The Day
+### 💡 Thought For The Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -152,6 +150,9 @@ open_to: Collaborations & Ideas
 
 *If you're working on something at the edge of AI and real-world systems — I want to hear about it.*
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6E40C9?style=for-the-badge&logo=framer&logoColor=white)](https://luckychauhan.framer.ai/)
 [![LinkedIn](https://img.shields.io/badge/Reach_Out-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckychauhan/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luckyrchauhan)
 
