@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luckyrchauhan/luckyrchauhan/main/assets/banner.png" alt="Lucky Chauhan — AI Product Manager" width="100%"/>
+<br/>
 
-<br/><br/>
+# 👋 Hey, I'm Lucky Chauhan
 
-<h3>Building AI products that actually ship 🚀 &nbsp;|&nbsp; Agentic Workflows &nbsp;|&nbsp; Always Building</h3>
+### `AI Product Manager` · `Builder` · `Thinker`
+
+<br/>
+
+> *"Always curious. Always building something."*
 
 <br/>
 
@@ -12,15 +16,9 @@
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-6E40C9?style=for-the-badge&logo=framer&logoColor=white)](https://luckychauhan.framer.ai/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luckyrchauhan)
 
-</div>
+<br/>
 
 ---
-
-<table width="90%" align="center">
-<tr>
-<td width="58%" valign="top">
-
-### 👋 Hey, I'm Lucky
 
 Product Manager with **11+ years of experience** at the intersection of **AI and enterprise technology**.
 
@@ -32,35 +30,7 @@ I believe the gap between a good idea and a great product is **systems thinking*
 
 **Always curious. Always building something.**
 
-</td>
-<td width="42%" valign="top">
-
-```yaml
-name: Lucky Chauhan
-role: AI Product Manager
-experience: 11+ years
-
-education:
-  degree: MBA + MS Digital Technology
-  school: Boston University
-  focus: AI Product Management
-
-currently_building:
-  - Personal AI side projects
-  - Agentic workflow systems
-  - MCP integrations
-
-mindset: "Ship. Learn. Repeat."
-open_to: Collaborations & Ideas
-```
-
-</td>
-</tr>
-</table>
-
 ---
-
-<div align="center">
 
 ### 🎯 What I Focus On
 
@@ -72,11 +42,9 @@ open_to: Collaborations & Ideas
 |:---:|:---:|:---:|
 | Bridging complex systems with human needs | Roadmaps that actually ship | Scalable infrastructure for AI products |
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -115,11 +83,9 @@ open_to: Collaborations & Ideas
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
 
 ### 📊 GitHub Stats
 
@@ -130,21 +96,17 @@ open_to: Collaborations & Ideas
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=luckyrchauhan&theme=tokyonight&hide_border=true)
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
 
 ### 💡 Thought For The Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
 
 ### 🤝 Let's Build Something Worth Building
 
@@ -159,5 +121,7 @@ open_to: Collaborations & Ideas
 <br/>
 
 *Thanks for stopping by — don't be a stranger.* ✌️
+
+<br/>
 
 </div>
